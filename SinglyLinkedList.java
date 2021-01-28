@@ -1,7 +1,6 @@
 /* Author: Liam Erickson
  * File: SinglyLinkedList.java
  * Date: May 28, 2020
- * Class: CS258 - Lab 6 Part 3
  */
 
 public class SinglyLinkedList<T> {
